@@ -42,11 +42,11 @@
 
 ### <u>Expirence</u>
 
-\- Development from scratch and support of applications based on Oracle apex application.
-\- Extensive experience with legacy code in various programming languages. I had to analyze and write in many languages without documentation.
-\- Performed the tasks of an employee of the first line of technical support on software issues.
-\- Alone, I went through all the stages of developing new applications: understanding the business process, collecting user requirements, designing the database and application logic, processing the initial data provided from different sources, putting them in order and verification. GUI development, testing
-\- Prompt solution of problems related to errors in the operation of user services
+- Development from scratch and support of applications based on Oracle apex application.
+- Extensive experience with legacy code in various programming languages. I had to analyze and write in many languages without documentation.
+  Performed the tasks of an employee of the first line of technical support on software issues.
+- Alone, I went through all the stages of developing new applications: understanding the business process, collecting user requirements, designing the database and application logic, processing the initial data provided from different sources, putting them in order and verification. GUI development, testing
+- Prompt solution of problems related to errors in the operation of user services
 
 ***
 
