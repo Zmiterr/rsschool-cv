@@ -1,8 +1,4 @@
-#    **Dzmitry Rabinkin**<img src="https://media-exp1.licdn.com/dms/image/C5603AQE4vw-1b2fVnQ/profile-displayphoto-shrink_800_800/0/1584621262136?e=1620259200&v=beta&t=mqCkv0DiBaWyLK7Ng8RFrdR0IJ8SCmCbY8S63QvnaIM" style="zoom:25%;" alt="Sublime's custom image" align="right"/>
-
-
-
-
+#    **Dzmitry Rabinkin**
 
 ### <u>Contacts</u>
 
