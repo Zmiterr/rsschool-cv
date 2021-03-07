@@ -6,15 +6,11 @@ h3,
 h4,
 p,
 ul,
-li {
-  margin: 0;
-}
+li { margin: 0; }
 
-li {
-  list-style-type: none; 
-}
-
+li { list-style-type: none; }
 /************/
+
 body {
   display: flex;
   flex-direction: column;
@@ -35,17 +31,11 @@ header {
   background: #af5555;
 }
 
-section {
-  padding: 10px;
-}
+section { padding: 10px; }
 
-section:nth-child(even) {
-  background-color: #ededed;
-}
+section:nth-child(even) { background-color: #ededed; }
 
-section:nth-child(odd) {
-  background-color: #fff;
-}
+section:nth-child(odd) {   background-color: #fff; }
 
 footer {
   display: flex;  
@@ -56,9 +46,7 @@ footer {
   background: #af5555; 
 }
 
-p {
-  padding-left: 40px;
-}
+p { padding-left: 40px; }
 
 img {
   display: block;
@@ -93,6 +81,4 @@ img {
   margin-left: 10px;
 }
 
-.contact_list span {
-  font-weight: bold;
-}
+.contact_list span { font-weight: bold; }
