@@ -5,6 +5,7 @@ body {
   min-width: 320px;
   position: relative;
   line-height: 1.42857;
+  overflow-x: hidden;
   -webkit-font-smoothing: antialised;
 }
 
