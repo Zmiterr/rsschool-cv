@@ -314,6 +314,10 @@ svg {
   list-style-type: none;
 }
 
+.resume-list-item {
+  color: #888;
+}
+
 .resume_item .year {
   display: inline-block;
   padding: 0 10px;
@@ -469,4 +473,7 @@ form textarea {
   background-color: transparent;
 }
 
+ul {
+  list-style-type: none;
+}
 /*# sourceMappingURL=main.css.map */

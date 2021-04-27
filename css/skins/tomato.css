@@ -3,7 +3,7 @@ body {
   letter-spacing: 1px; }
 
 a {
-  color: #FF6347; }
+  color: #0D3C65; }
 
 p {
   color: #888; }
@@ -13,13 +13,13 @@ section h3 {
   color: #888; }
 
 .color_element {
-  color: #FF6347; }
+  color: #0D3C65; }
 
 .color_bg {
-  background-color: #FF6347; }
+  background-color: #0D3C65; }
 
 .color_border {
-  border-color: #FF6347; }
+  border-color: #0D3C65; }
 
 .bg_light {
   background-color: #FAFAFA; }
@@ -40,14 +40,14 @@ body .main_footer,
 
 svg path {
   fill: #222;
-  color: #FF6347; }
+  color: #0D3C65; }
 
 .s_about p:nth-child(even) {
-  color: #FF6347; }
+  color: #0D3C65; }
 
 /*sandwich */
 .toggle_menu {
-  background-color: #222;
+  background-color: rgba(2,27,47,0.1);
   width: 60px;
   height: 60px;
   border: none;
@@ -61,7 +61,7 @@ svg path {
     display: block; }
 
 .top_menu a:hover {
-  color: #FF6347;
+  color: #0D3C65;
   background-color: rgba(255, 255, 255, 0.05); }
 .top_menu a {
   letter-spacing: 4px; }
@@ -85,32 +85,32 @@ svg path {
 .resume_item h3 {
   letter-spacing: 1px; }
 .resume_item .year {
-  background-color: #FF6347; }
+  background-color: #0D3C65; }
 
 .portfolio_item .hover_content button {
-  border-color: #FF6347;
-  color: #FF6347; }
+  border-color: #0D3C65;
+  color: #0D3C65; }
 
 .contact_box .contacts_icon {
-  color: #FF6347; }
+  color: #0D3C65; }
 
 .s_portfolio li {
   letter-spacing: 2px;
   color: #888; }
   .s_portfolio li.active {
     color: #fff;
-    border-bottom: 1px solid #FF6347; }
+    border-bottom: 1px solid #0D3C65; }
 
 form .text-danger {
-  color: #FF6347; }
+  color: #0D3C65; }
 form input,
 form textarea {
   letter-spacing: 2px; }
 form input:focus,
 form textarea:focus {
-  border: 2px solid #FF6347; }
+  border: 2px solid #0D3C65; }
 form button {
-  background-color: #FF6347;
+  background-color: #0D3C65;
   letter-spacing: 2px; }
 form .form-group {
   letter-spacing: 2px;
