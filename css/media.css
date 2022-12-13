@@ -25,7 +25,12 @@
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
-
+    .resume_container {
+        padding: 0 16px;
+    }
+    .top_wraper .logo_text p {
+        font-size: 2.5vw;
+    }
 }
 
 /* Extra Small Devices, Phones */

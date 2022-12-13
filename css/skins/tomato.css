@@ -3,7 +3,7 @@ body {
   letter-spacing: 1px; }
 
 a {
-  color: #0D3C65; }
+  color: #2E5B6B; }
 
 p {
   color: #888; }
@@ -13,13 +13,13 @@ section h3 {
   color: #888; }
 
 .color_element {
-  color: #0D3C65; }
+  color: #2E5B6B; }
 
 .color_bg {
-  background-color: #0D3C65; }
+  background-color: #2E5B6B; }
 
 .color_border {
-  border-color: #0D3C65; }
+  border-color: #2E5B6B; }
 
 .bg_light {
   background-color: #FAFAFA; }
@@ -40,10 +40,10 @@ body .main_footer,
 
 svg path {
   fill: #222;
-  color: #0D3C65; }
+  color: #2E5B6B; }
 
 .s_about p:nth-child(even) {
-  color: #0D3C65; }
+  color: #2E5B6B; }
 
 /*sandwich */
 .toggle_menu {
@@ -52,7 +52,6 @@ svg path {
   height: 60px;
   border: none;
   float: right;
-  position: relative;
   z-index: 151;
   right: 20px;
   top: 20px;
@@ -61,7 +60,7 @@ svg path {
     display: block; }
 
 .top_menu a:hover {
-  color: #0D3C65;
+  color: #2E5B6B;
   background-color: rgba(255, 255, 255, 0.05); }
 .top_menu a {
   letter-spacing: 4px; }
@@ -85,32 +84,32 @@ svg path {
 .resume_item h3 {
   letter-spacing: 1px; }
 .resume_item .year {
-  background-color: #0D3C65; }
+  background-color: #2E5B6B; }
 
 .portfolio_item .hover_content button {
-  border-color: #0D3C65;
-  color: #0D3C65; }
+  border-color: #2E5B6B;
+  color: #2E5B6B; }
 
 .contact_box .contacts_icon {
-  color: #0D3C65; }
+  color: #2E5B6B; }
 
 .s_portfolio li {
   letter-spacing: 2px;
   color: #888; }
   .s_portfolio li.active {
     color: #fff;
-    border-bottom: 1px solid #0D3C65; }
+    border-bottom: 1px solid #2E5B6B; }
 
 form .text-danger {
-  color: #0D3C65; }
+  color: #2E5B6B; }
 form input,
 form textarea {
   letter-spacing: 2px; }
 form input:focus,
 form textarea:focus {
-  border: 2px solid #0D3C65; }
+  border: 2px solid #2E5B6B; }
 form button {
-  background-color: #0D3C65;
+  background-color: #2E5B6B;
   letter-spacing: 2px; }
 form .form-group {
   letter-spacing: 2px;
@@ -120,7 +119,7 @@ form .form-group {
 .nav_button {
   width: 32px;
   height: 18px;
-  margin: 0px auto;
+  margin: 0 auto;
   cursor: pointer; }
   .nav_button #burger {
     position: relative;
@@ -145,7 +144,7 @@ form .form-group {
         top: 16px; }
     .nav_button #burger.active-sandwich span:nth-child(1) {
       top: 18px;
-      width: 0%;
+      width: 0;
       left: 50%; }
     .nav_button #burger.active-sandwich span:nth-child(2) {
       transform: rotate(45deg); }
@@ -153,7 +152,7 @@ form .form-group {
       transform: rotate(-45deg); }
     .nav_button #burger.active-sandwich span:nth-child(4) {
       top: 18px;
-      width: 0%;
+      width: 0;
       left: 50%; }
 
 /*# sourceMappingURL=tomato.css.map */
